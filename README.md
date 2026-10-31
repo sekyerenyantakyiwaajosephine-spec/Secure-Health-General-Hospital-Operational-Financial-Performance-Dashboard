@@ -1,11 +1,11 @@
 # Secure Health General Hospital: Operational & Financial Performance Dashboard
 
-
 ## Introduction
+![](Introduction_image.png)
 This project focuses on analyzing patient data for Secure Life General Hospital. The hospital's management noticed fluctuations in-patient admissions and a growing concern over unpaid medical bills. However, because their data was scattered, they lacked a single, clear view of their overall operational and financial health.
 As a Data Analyst, my goal was to step in, clean the raw data, and build an interactive dashboard. This tool helps hospital management instantly see how the hospital is performing, identify where money is being lost, and make faster, data-driven decisions.
 
-##Tools Used
+Tools Used
 Microsoft Excel: Used for data cleaning, feature engineering (formulas), Pivot Tables, and designing the interactive dashboard.
 ## About the Dataset
 
