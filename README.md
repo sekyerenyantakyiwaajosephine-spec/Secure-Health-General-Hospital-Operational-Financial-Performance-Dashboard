@@ -47,3 +47,4 @@ Based on the insights, I recommend the following actions for management:
  ## Conclusion
 This dashboard provides Secure Health General Hospital with a clear, actionable view of its operations. While the hospital is bringing in a steady stream of patients, the high rate of unpaid bills is a clear warning sign. By using this dashboard to track payments closely and manage high-traffic departments, the hospital can significantly improve both its patient care and its financial health.
 
+
